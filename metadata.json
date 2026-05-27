@@ -1,0 +1,6 @@
+{
+  "name": "Asset Governance Platform",
+  "description": "An asset governance and physical verification platform inspired by AssetCues workflows, featuring real-time tracking, barcode scanning simulation, and discrepancy reconciliation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
